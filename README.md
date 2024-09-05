@@ -6,12 +6,16 @@ O usuário poderá colocar dois números para ser efetuado a operação, deverá
 01 - Subtração
 10 - Multiplicação
 11 - Divisão
+
 ![image](https://github.com/user-attachments/assets/2dc76358-ec69-49b8-95ce-f9bd3652a286)
 
 # Decode
-Será enviado 8 pinos para o decode, e ele irá retornar 4 saída, que será o número hexadecimal, e será mostrado no visor, e encaminhado para o circuito "Calculator"![image](https://github.com/user-attachments/assets/91a45de9-f1fa-4ba6-b74e-e3d0492c4511)
+Será enviado 8 pinos para o decode, e ele irá retornar 4 saída, que será o número hexadecimal, e será mostrado no visor, e encaminhado para o circuito "Calculator"
+
+![image](https://github.com/user-attachments/assets/91a45de9-f1fa-4ba6-b74e-e3d0492c4511)
 
 O Decoder irá analisar quais determinados pinos formam o número desejado em hexadecimal, conforme a tabela verdade a seguir.
+
 ![image](https://github.com/user-attachments/assets/efde795e-7c4e-4384-89d8-d860ebfb3f71)
 
 # Calculator
