@@ -53,3 +53,25 @@ O soma bit irá somar dois bits, e caso o resultado seja maior que 1 bit, ele ir
 
 ![image](https://github.com/user-attachments/assets/4161c5a8-fc8d-41ec-acba-01685687314b)
 
+O subtrai bit irá subtrair dois bits, caso o resultado seja "negativo", irá emprestar um bit para a proxima operação, e irá ter a entrada de "emprest".
+
+# Multiplicação
+
+![image](https://github.com/user-attachments/assets/6a495739-c196-421f-9727-57aae15ef777)
+
+A multiplicação irá ter a entrada de 2 números hexadecimais e funcionará com 4 multiplexadores e 3 circuitos de soma.
+Inicialmente se a entrada tiver quatro "0", ele irá retornar 0 inicialmente, caso contrário irá multiplicar bit a bit por meio do multiplexador, e irá somar os resultados.
+
+# Incrementador
+
+![image](https://github.com/user-attachments/assets/4cc299b6-ee7a-4b15-aa1e-a41a619e7782)
+
+O incrementador serve para somar "um" ao número atual, e temos o controle de incrementar ou não por meio do pino "perm"
+
+# Mag
+
+![image](https://github.com/user-attachments/assets/8563f144-5f4c-4554-aa2a-518bfa121a47)
+
+O incrementador tem duas entradas, que são os dois números que serão comparados, e irá retornar se o primeiro número é maior, menor ou igual.
+
+
