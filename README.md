@@ -1,13 +1,13 @@
 # Calculadora (Adição,Subtração,Multiplicação,Divisão) - 4 bits
 ![image](https://github.com/user-attachments/assets/e41a2606-78df-4fc6-a334-f73d0dbc2afa)
 
-O usuário poderá colocar dois números para ser efetuado a operação, deverá acionar as portas correspodente ao número que ele queira.
+O usuário poderá colocar dois números para ser efetuado a operação, como se fosse um visor de sete segmentos, deverá acionar as portas correspodente ao número que ele queira.
+
+E no resultado ele poderá escolher por meio de dois pinos qual a operação desejada, nas quais as combinações são:
 <p>00 - Soma</p>
 <p>01 - Subtração</p>
 <p>10 - Multiplicação</p>
 <p>11 - Divisão</p>
-
-![image](https://github.com/user-attachments/assets/2dc76358-ec69-49b8-95ce-f9bd3652a286)
 
 # Decode
 Será enviado 8 pinos para o decode, e ele irá retornar 4 saída, que será o número hexadecimal, e será mostrado no visor, e encaminhado para o circuito "Calculator"
