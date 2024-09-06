@@ -2,10 +2,10 @@
 ![image](https://github.com/user-attachments/assets/e41a2606-78df-4fc6-a334-f73d0dbc2afa)
 
 O usuário poderá colocar dois números para ser efetuado a operação, deverá acionar as portas correspodente ao número que ele queira.
-<a>00 - Soma</a>
-<a>01 - Subtração</a>
-<a>10 - Multiplicação</a>
-<a>11 - Divisão</a>
+<p>00 - Soma</p>
+<p>01 - Subtração</p>
+<p>10 - Multiplicação</p>
+<p>11 - Divisão</p>
 
 ![image](https://github.com/user-attachments/assets/2dc76358-ec69-49b8-95ce-f9bd3652a286)
 
