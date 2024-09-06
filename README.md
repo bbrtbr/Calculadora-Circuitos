@@ -88,3 +88,20 @@ O circuito soma perm irá somar dois números se tiver a permissão, esse circui
 O circuito de divisão funciona por meio da junção dos circuitos de incrementador, multiplicação, comparador de números e a permissão de soma.
 Ele irá multiplicar o divisor por "1" e irá incrementar até o valor ser igual o valor do dividendo, assim ele irá somar no resultado final, e bloquear a soma para os próximos resultados.
 
+# Testes
+
+<p>Soma</p>
+
+![image](https://github.com/user-attachments/assets/f6c34d11-9a28-448d-be26-d28af6a3ecfd)
+
+<p>Subtração</p>
+
+![image](https://github.com/user-attachments/assets/b26fed28-a81f-4617-8e5f-c3d673531cf3)
+
+<p>Multiplicação</p>
+
+![image](https://github.com/user-attachments/assets/a7beffe5-ce94-4b24-a351-4c6fcbf39e71)
+
+<p>Divisão</p>
+
+![image](https://github.com/user-attachments/assets/01266822-cdcd-48ab-bf71-2a30840a20d5)
