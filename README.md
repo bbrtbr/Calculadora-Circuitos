@@ -74,4 +74,17 @@ O incrementador serve para somar "um" ao número atual, e temos o controle de in
 
 O incrementador tem duas entradas, que são os dois números que serão comparados, e irá retornar se o primeiro número é maior, menor ou igual.
 
+# Soma_perm
+
+![image](https://github.com/user-attachments/assets/33742008-78e5-4fe8-a474-e3e863f1d8b7)
+
+O circuito soma perm irá somar dois números se tiver a permissão, esse circuito serve para auxiliar a divisão.
+
+# Divisão
+
+![image](https://github.com/user-attachments/assets/e0489b3d-d7a0-40f8-82d2-a170375d7572)
+
+
+O circuito de divisão funciona por meio da junção dos circuitos de incrementador, multiplicação, comparador de números e a permissão de soma.
+Ele irá multiplicar o divisor por "1" e irá incrementar até o valor ser igual o valor do dividendo, assim ele irá somar no resultado final, e bloquear a soma para os próximos resultados.
 
